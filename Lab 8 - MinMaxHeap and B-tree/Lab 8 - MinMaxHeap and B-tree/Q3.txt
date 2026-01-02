@@ -1,0 +1,34 @@
+Common Problems Solved Using Binary Search Trees (BST)
+=======================================================
+
+1. Dynamic Set Operations
+   - Insertion and deletion of elements while maintaining sorted order.
+   - Efficient searching for specific keys.
+   - Supports operations like finding predecessor/successor, minimum, and maximum.
+
+2. Sorted Data Storage
+   - Maintaining data that is automatically kept in sorted order.
+   - Implementing ordered dictionaries, maps, and sets.
+
+3. Range Queries
+   - Finding and listing all keys between two given values.
+   - Used in interval queries and range searches.
+
+4. Associative Array/Dictionary Implementations
+   - BSTs are often used to implement dictionary data structures that allow fast lookup,
+     update, and removal operations.
+
+5. Order-Statistic Problems
+   - With augmentations, BSTs can compute the rank of an element (i.e., its position in sorted order).
+   - Efficiently select the kth smallest or largest element.
+
+6. In-Memory Databases
+   - Applications requiring dynamic queries with in-order traversal are well-suited for BSTs.
+
+7. Cache Implementations & Searching
+   - BSTs can be used in caching systems where quick insertions and retrievals are required,
+     especially in scenarios where data is subject to frequent updates.
+
+8. Other Applications
+   - Autocomplete systems where keys are managed in an ordered fashion.
+   - Sorted data traversal, which is beneficial in algorithms that require ordered processing.
